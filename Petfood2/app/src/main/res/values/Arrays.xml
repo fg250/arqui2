@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EdadesPerros">
+        <item>1 año</item>
+        <item>2 años</item>
+        <item>3 años</item>
+        <item>4 años</item>
+        <item>5 año</item>
+        <item>6 años</item>
+        <item>7 años</item>
+        <item>8 años</item>
+        <item>9 años</item>
+        <item>10 años</item>
+        <item>11 años</item>
+        <item>12 años</item>
+        <item>13 años</item>
+        <item>14 años</item>
+        <item>15 años</item>
+    </string-array>
+
+    <string-array name="EdadesGatos">
+        <item>1 año</item>
+        <item>2 años</item>
+        <item>3 años</item>
+        <item>4 años</item>
+        <item>5 año</item>
+        <item>6 años</item>
+        <item>7 años</item>
+        <item>8 años</item>
+        <item>9 años</item>
+        <item>10 años</item>
+    </string-array>
+
+    <string-array name="Tamaños">
+        <item>pequeño</item>
+        <item>mediano</item>
+        <item>grande</item>
+    </string-array>
+</resources>
