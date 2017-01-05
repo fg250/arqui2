@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="EdadesPerros">
-        <item>1 año</item>
-        <item>2 años</item>
-        <item>3 años</item>
-        <item>4 años</item>
-        <item>5 año</item>
-        <item>6 años</item>
-        <item>7 años</item>
-        <item>8 años</item>
-        <item>9 años</item>
-        <item>10 años</item>
-        <item>11 años</item>
-        <item>12 años</item>
-        <item>13 años</item>
-        <item>14 años</item>
-        <item>15 años</item>
+        <item>de 2 a 3 meses</item>
+        <item>de 4 a 5 meses</item>
+        <item>de 6 meses</item>
+        <item>de 8 meses a 1 año</item>
+        <item>mayor de 1 año</item>
     </string-array>
 
     <string-array name="EdadesGatos">
-        <item>1 año</item>
-        <item>2 años</item>
-        <item>3 años</item>
-        <item>4 años</item>
-        <item>5 año</item>
-        <item>6 años</item>
-        <item>7 años</item>
-        <item>8 años</item>
-        <item>9 años</item>
-        <item>10 años</item>
+        <item>de 2 a 4 meses</item>
+        <item>de 4 a 6 meses</item>
+        <item>de 6 a 8 meses</item>
+        <item>de 8 meses a 1 año</item>
+        <item>Mayor a 1 año</item>
     </string-array>
 
-    <string-array name="Tamaños">
-        <item>pequeño</item>
-        <item>mediano</item>
-        <item>grande</item>
+    <string-array name="TamañosPerros">
+        <item>Toy (2-3 kilos)</item>
+        <item>pequeño1 (3-5 kilos)</item>
+        <item>pequeño2 (5-10 kilos)</item>
+        <item>mediano1 (10-15 kilos)</item>
+        <item>mediano2 (15-20 kilos)</item>
+        <item>grande1 (20-30 kilos)</item>
+        <item>grande2 (30-40 kilos)</item>
+        <item>gigante (>50 kilos)</item>
+    </string-array>
+
+    <string-array name="TamañosGatos">
+        <item>4 kilos</item>
+        <item>5 kilos</item>
+        <item>6 kilos</item>
+        <item>7 kilos</item>
+        <item>8 kilos</item>
+        <item>9 kilos</item>
+        <item>10 kilos o mas</item>
     </string-array>
 </resources>
